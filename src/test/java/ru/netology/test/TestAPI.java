@@ -21,7 +21,7 @@ public class TestAPI {
                 .statusCode(200)
                         .
 
-                body("data", equalTo("alin"));
+                body("data", equalTo("alim"));
 
 
     }
